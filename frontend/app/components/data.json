@@ -1,0 +1,301 @@
+[
+    {
+      "body": {
+        "backgroundImage": "hero-bg.jpg"
+      }
+    },
+    {
+      "header": {
+        "navigation": [
+          {
+            "icons": "https://s3-alpha-sig.figma.com/img/f9ed/500d/02be4c7704cc286e6ae60a41838927b2?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pbsfyt-Jcej9qJ10hgdHafgBw5ZN3lOh4BkYuTmsXTih9VaQMMp1pS690h34HrtmDuTF0Q9Rvpfb5~LHIS6ODM84N3MdR74PszaJF8DmpUAkpPCAElknssLuKXM2HPHcKtyMEYSAqkrmUswTxkyAyC2dSBY9ahPQC0kMeXTDIproDKr8hnziiqmS~sKKiqKtfu26Ap5CpY6Y7bCJXW0WZJlGB~GJpdR~AsONK3Qw3UmHTuVp30eqyMQlJ~N-PlJ4N6SPv7D10DVkv8-IL7aEo4tS~TCqyFTrPvqBmWbS-40EsLlfcmnt8XKgDiPQV42vWSCIctTUH4zOG5Sc2leP1w__"
+          },
+          { "name": "About", "link": "/about" },
+          { "name": "Events", "link": "/event" },
+          { "name": "Courses", "link": "/course" },
+          { "name": "Gallery", "link": "/Gallery" }
+        ]
+      },
+  
+  
+      "heroSection": {
+        "title": "Wat'y Learning Hub",
+        "subtitle": "Unlock Your Potential with Expert-Led Online Courses  Empowering you with quality education, anytime, anywhere. Join thousands of learners transforming their lives through courses that matter!",
+        "buttons": [
+          {
+            "text": "Get Started",
+            "link": "/get-started",
+            "icon": "start-icon.png"
+          },
+          {
+            "text": "Browse  Courses",
+            "link": "/learn-more"
+          }
+        ],
+        "backgroundImage": "https://s3-alpha-sig.figma.com/img/f9ed/500d/02be4c7704cc286e6ae60a41838927b2?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pbsfyt-Jcej9qJ10hgdHafgBw5ZN3lOh4BkYuTmsXTih9VaQMMp1pS690h34HrtmDuTF0Q9Rvpfb5~LHIS6ODM84N3MdR74PszaJF8DmpUAkpPCAElknssLuKXM2HPHcKtyMEYSAqkrmUswTxkyAyC2dSBY9ahPQC0kMeXTDIproDKr8hnziiqmS~sKKiqKtfu26Ap5CpY6Y7bCJXW0WZJlGB~GJpdR~AsONK3Qw3UmHTuVp30eqyMQlJ~N-PlJ4N6SPv7D10DVkv8-IL7aEo4tS~TCqyFTrPvqBmWbS-40EsLlfcmnt8XKgDiPQV42vWSCIctTUH4zOG5Sc2leP1w__"
+      },
+      "about": {
+        "title": "Wat'y Learning Hub",
+        "subtitle": "About",
+        "description": "Wat'y Learning Hub empowers individuals through hands-on training in programming, software development, and essential soft skills. Our focus goes beyond employment, inspiring students to reach their full potential and drive innovation. With experienced instructors, we prepare learners for success in the evolving digital world. Join us to shape the future through impactful education.",
+        "image": "https://s3-alpha-sig.figma.com/img/7d10/1330/557d9030322948ea667142a1a7afed7c?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=b6HZCH4EYBUm6p07eNmIcR~f7TYD92fIxGxnghynOKjk-KmpnQ0rGnGq3wbvUElVSAcTKbIBqkpZNQ8YIWsIQD6kZYyedDq3kuNPB8BNFZoY0EoJ-IejvP6kO-tdrMYTr2TaUnUb4FNoDtoinT1iH8eCVOuxJ2iOL4EKCg6CUYIZH-pMNCl4O9978Vf7iIUPpYOqHr2Y7s4FoNkkJmIO85uUlHr1yGsFgV9XMzkLnFl9XB4SUKDAr0YaFmg1hr-d4eSwxd1GnKEJedR9JXl5gQdfWysDZ99FsEN2XVksMZl9ql1WFRWQ8sjeD7tb45EYCP1WfwkpamVTiAy3QcCnhQ__",
+        "icons": [
+          { "icon": "icon1.png", "alt": "Icon for feature 1" },
+          { "icon": "icon2.png", "alt": "Icon for feature 2" }
+        ]
+      },
+  
+  
+      "inspiring": {
+        "title": "Inspiring Future Innovators",
+        "description": "Through transformative education and a commitment to growth, we inspire individuals to innovate, lead, and create meaningful change..",
+        "subtitle": "Our Mission"
+      },
+  
+      "cardSection": {
+        "cards": [
+          {
+            "title": "Python Essentials Workshop",
+            "subtitle": "Join our hands-on workshop covering Python basics, from syntax to creating your first program. A must-attend for anyone interested in programming.",
+            "button": {
+              "text": "Book a Slot",
+              "link": "/Book a Slot"
+            },
+            "image": "https://contentstatic.techgig.com/thumb/msid-107923788,width-800,resizemode-4/Python-programming-Must-have-tools-for-ML-and-Data-Science.jpg?9098",
+            "date": "Nov 15, 2024",
+            "time": "5:00 PM - 8:00 PM"
+          },
+          {
+            "title": "Demystifying Cloud Computing",
+            "subtitle": "Explore key concepts in cloud computing across popular platforms like AWS, Azure, and Google Cloud. Learn how the cloud transforms industries.",
+            "button": {
+              "text": "Book a Slot",
+              "link": "/Book a Slot"
+            },
+            "image": "data-science.jpg",
+            "date": "2024-12-01",
+            "time": "2:00 PM"
+          },
+          {
+            "title": "The Art of Multitasking",
+            "subtitle": "This seminar teaches techniques to improve productivity without feeling overwhelmed. Ideal for professionals looking to boost their efficiency.",
+            "button": {
+              "text": "Book a Slot",
+              "link": "/Book a Slot"
+            },
+            "image": "design-principles.jpg",
+            "date": "DEC 1, 2024",
+            "time": "3:00 PM - 4:30 PM"
+          },
+          {
+            "title": "Intelligence for Professionals",
+            "subtitle": "This seminar teaches techniques to improve productivity without feeling overwhelmed. Ideal for professionals looking to boost their efficiency.",
+            "button": {
+              "text": "Book a Slot",
+              "link": "/Book a Slot"
+            },
+            "image": "design-principles.jpg",
+            "date": "DEC 1, 2024",
+            "time": "3:00 PM - 4:30 PM"
+          }
+        ]
+      },
+  
+  
+      "coursesSection": {
+          "title": "explore our courses",
+          "description":"Boost your skills with courses crafted by experts",
+        "categories": [
+          {
+            "categoryName": "Tech Courses",
+            "button": {
+              "text": "Explore Tech Courses",
+              "link": "/courses/tech"
+            },
+            "courses": [
+              {
+                "title": "Full Stack Web Development",
+                "image": "fullstack.jpg",
+                "likeButton": {
+                  "liked": false,
+                  "icon": "like-icon.png"
+                },
+                "timing": "6 Months",
+                "enrollButton": {
+                  "text": "Enroll Now",
+                  "link": "/enroll/fullstack-web"
+                }
+              },
+              {
+                "title": "Data Science & Machine Learning",
+                "image": "data-science.jpg",
+                "likeButton": {
+                  "liked": true,
+                  "icon": "liked-icon.png"
+                },
+                "timing": "4 Months",
+                "enrollButton": {
+                  "text": "Enroll Now",
+                  "link": "/enroll/data-science"
+                }
+              }
+            ]
+          },
+          {
+            "categoryName": "Languages",
+            "button": {
+              "text": "Explore Language Courses",
+              "link": "/courses/languages"
+            },
+            "courses": [
+              {
+                "title": "English for Beginners",
+                "image": "english-beginners.jpg",
+                "likeButton": {
+                  "liked": false,
+                  "icon": "like-icon.png"
+                },
+                "timing": "3 Months",
+                "enrollButton": {
+                  "text": "Enroll Now",
+                  "link": "/enroll/english-beginners"
+                }
+              },
+              {
+                "title": "Spanish Intermediate",
+                "image": "spanish-intermediate.jpg",
+                "likeButton": {
+                  "liked": false,
+                  "icon": "like-icon.png"
+                },
+                "timing": "3 Months",
+                "enrollButton": {
+                  "text": "Enroll Now",
+                  "link": "/enroll/spanish-intermediate"
+                }
+              }
+            ]
+          },
+          {
+            "categoryName": "Soft Skills",
+            "button": {
+              "text": "Explore Soft Skills",
+              "link": "/courses/soft-skills"
+            },
+            "courses": [
+              {
+                "title": "Public Speaking",
+                "image": "public-speaking.jpg",
+                "likeButton": {
+                  "liked": true,
+                  "icon": "liked-icon.png"
+                },
+                "timing": "2 Months",
+                "enrollButton": {
+                  "text": "Enroll Now",
+                  "link": "/enroll/public-speaking"
+                }
+              },
+              {
+                "title": "Leadership Training",
+                "image": "leadership-training.jpg",
+                "likeButton": {
+                  "liked": false,
+                  "icon": "like-icon.png"
+                },
+                "timing": "1 Month",
+                "enrollButton": {
+                  "text": "Enroll Now",
+                  "link": "/enroll/leadership-training"
+                }
+              }
+            ]
+          }
+        ]
+      },
+  
+      
+          "formSection": {
+            "heading": "Join Us Today!",
+            "subtitle": "Fill in your details to get started",
+            "image": "enrollment-form.jpg",
+            "form": {
+              "fields": [
+                {
+                  "label": "First Name",
+                  "name": "firstName",
+                  "type": "text",
+                  "placeholder": "Enter your first name"
+                },
+                {
+                  "label": "Last Name",
+                  "name": "lastName",
+                  "type": "text",
+                  "placeholder": "Enter your last name"
+                },
+                {
+                  "label": "Email",
+                  "name": "email",
+                  "type": "email",
+                  "placeholder": "Enter your email"
+                },
+                {
+                  "label": "Phone Number",
+                  "name": "phoneNumber",
+                  "type": "tel",
+                  "placeholder": "Enter your phone number"
+                }
+              ],
+              "buttons": [
+                {
+                  "text": "Cancel",
+                  "action": "cancel",
+                  "style": "secondary"
+                },
+                {
+                  "text": "Enroll Now",
+                  "action": "submit",
+                  "style": "primary"
+                }
+              ]
+            }
+          },
+        
+        
+  
+      "testimonials": {
+        "title": "What Our Students Say",
+        "feedbacks": [
+          {
+            "name": "John Doe",
+            "testimonial": "The courses offered here are top-notch! Highly recommended.",
+            "image": "john-doe.jpg"
+          },
+          {
+            "name": "Jane Smith",
+            "testimonial": "The learning experience has been amazing, and I feel more confident now.",
+            "image": "jane-smith.jpg"
+          }
+        ]
+      },
+      "gallery": {
+        "title": "Gallery",
+        "images": [
+          { "src": "gallery1.jpg", "alt": "Classroom session" },
+          { "src": "gallery2.jpg", "alt": "Workshop event" },
+          { "src": "gallery3.jpg", "alt": "Graduation ceremony" }
+        ]
+      },
+      "footer": {
+          "title": "Wat'y Learning Hub. We’re here",
+          "address":"4C/1A, Ambai Rd, Kulavanigarpuram, Shanthi Nagar, Tirunelveli, Tamil Nadu 627005.",
+        "icons":"https://s3-alpha-sig.figma.com/img/f9ed/500d/02be4c7704cc286e6ae60a41838927b2?Expires=1731888000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pbsfyt-Jcej9qJ10hgdHafgBw5ZN3lOh4BkYuTmsXTih9VaQMMp1pS690h34HrtmDuTF0Q9Rvpfb5~LHIS6ODM84N3MdR74PszaJF8DmpUAkpPCAElknssLuKXM2HPHcKtyMEYSAqkrmUswTxkyAyC2dSBY9ahPQC0kMeXTDIproDKr8hnziiqmS~sKKiqKtfu26Ap5CpY6Y7bCJXW0WZJlGB~GJpdR~AsONK3Qw3UmHTuVp30eqyMQlJ~N-PlJ4N6SPv7D10DVkv8-IL7aEo4tS~TCqyFTrPvqBmWbS-40EsLlfcmnt8XKgDiPQV42vWSCIctTUH4zOG5Sc2leP1w__",
+        "socialLinks": [
+          { "platform": "Facebook", "link": "https://facebook.com/learninghub" },
+          { "platform": "linkedin", "link": "https://linkedin.com/learninghub" },
+          { "platform": "Twitter", "link": "https://Twitter.com/learninghub" }
+        ],
+        "copyright": "© 2024 Wat'y Learning Hub. All Rights Reserved."
+      }
+    }
+  ]
